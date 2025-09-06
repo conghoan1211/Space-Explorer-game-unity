@@ -86,9 +86,9 @@ Contributions are welcome! Fork the repository, make changes, and submit a pull 
 License
 This project is unlicensed. Contact the developer for permission to use or modify.
 Contact
-For questions or feedback, reach out via [insert contact method, e.g., GitHub issues or email].
+For questions or feedback, reach out via hoanpham12112003@gmail.com.
 References
 
 Sprites: 2D Space Kit.
 Audio: AudioJungle Game Sounds.
-Tutorials: [YouTube Playlist](*please provide specific link if available*).
+
